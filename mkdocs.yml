@@ -1,0 +1,27 @@
+site_name: PayPal Payment Service
+nav:
+    - Software Requirements Specification: index.md
+    - Glossary: glossary.md
+    - Author: about.md
+theme:
+    font:
+        text: Roboto
+    features:
+        - navigation.tabs
+    language: en
+    name: material
+    palette:
+        primary: blue
+    logo: assets/Platform.svg
+
+markdown_extensions:
+    - toc:
+        baselevel: 4
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin 
+      link: https://www.linkedin.com/in/dzianis-kuziomkin/
+  generator: false
+
+copyright: Copyright &copy; Dzianis Kuziomkin

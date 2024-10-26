@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="733px" preserveAspectRatio="none" style="width:832px;height:733px;background:#FFFFFF;" version="1.1" viewBox="0 0 832 733" width="832px" zoomAndPan="magnify"><defs/><g><rect fill="none" height="26.4883" id="_title" style="stroke:none;stroke-width:1.0;" width="109" x="363.5" y="10"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" text-decoration="underline" textLength="99" x="368.5" y="28.5352">Authorization</text><rect fill="#DDDDDD" height="676.7871" style="stroke:#181818;stroke-width:0.5;" width="418.5" x="135" y="43.4883"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" text-decoration="underline" textLength="74" x="307.25" y="56.0566">PLATFORM</text><rect fill="#FFFFFF" height="464.8789" style="stroke:#181818;stroke-width:1.0;" width="10" x="201" y="171.9082"/><rect fill="#FFFFFF" height="29.3105" style="stroke:#181818;stroke-width:1.0;" width="10" x="507" y="258.8398"/><rect fill="#FFFFFF" height="29.3105" style="stroke:#181818;stroke-width:1.0;" width="10" x="507" y="375.082"/><rect fill="#FFFFFF" height="86.9316" style="stroke:#181818;stroke-width:1.0;" width="10" x="643" y="433.7031"/><line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="52" x2="52" y1="125.2871" y2="654.7871"/><line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="206" x2="206" y1="125.2871" y2="654.7871"/><line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="511.5" x2="511.5" y1="125.2871" y2="654.7871"/><line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="647.5" x2="647.5" y1="125.2871" y2="654.7871"/><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="94" x="5" y="93.7988"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80" x="12" y="114.334">Bank Server</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="94" x="5" y="653.7871"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80" x="12" y="674.3223">Bank Server</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="134" x="139" y="93.7988"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="146" y="114.334">Payment Platform</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="134" x="139" y="653.7871"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="146" y="674.3223">Payment Platform</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="474.5" y="122.334">Clients DB</text><path d="M494,72.7988 C494,62.7988 512,62.7988 512,62.7988 C512,62.7988 530,62.7988 530,72.7988 L530,98.7988 C530,108.7988 512,108.7988 512,108.7988 C512,108.7988 494,108.7988 494,98.7988 L494,72.7988 " fill="#E2E2F0" style="stroke:#181818;stroke-width:1.5;"/><path d="M494,72.7988 C494,82.7988 512,82.7988 512,82.7988 C512,82.7988 530,82.7988 530,72.7988 " fill="none" style="stroke:#181818;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="474.5" y="667.3223">Clients DB</text><path d="M494,680.2754 C494,670.2754 512,670.2754 512,670.2754 C512,670.2754 530,670.2754 530,680.2754 L530,706.2754 C530,716.2754 512,716.2754 512,716.2754 C512,716.2754 494,716.2754 494,706.2754 L494,680.2754 " fill="#E2E2F0" style="stroke:#181818;stroke-width:1.5;"/><path d="M494,680.2754 C494,690.2754 512,690.2754 512,690.2754 C512,690.2754 530,690.2754 530,680.2754 " fill="none" style="stroke:#181818;stroke-width:1.5;"/><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="135" x="580.5" y="93.7988"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="587.5" y="114.334">PayPal Processing</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="135" x="580.5" y="653.7871"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="587.5" y="674.3223">PayPal Processing</text><rect fill="#FFFFFF" height="464.8789" style="stroke:#181818;stroke-width:1.0;" width="10" x="201" y="171.9082"/><rect fill="#FFFFFF" height="29.3105" style="stroke:#181818;stroke-width:1.0;" width="10" x="507" y="258.8398"/><rect fill="#FFFFFF" height="29.3105" style="stroke:#181818;stroke-width:1.0;" width="10" x="507" y="375.082"/><rect fill="#FFFFFF" height="86.9316" style="stroke:#181818;stroke-width:1.0;" width="10" x="643" y="433.7031"/><polygon fill="#181818" points="189,167.9082,199,171.9082,189,175.9082,193,171.9082" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="52" x2="195" y1="171.9082" y2="171.9082"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="21" x="59" y="159.5107">01:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="99" x="84" y="151.8555">send any PayPal</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="105" x="84" y="167.166">services Request</text><line style="stroke:#181818;stroke-width:1.0;" x1="211" x2="253" y1="216.5293" y2="216.5293"/><line style="stroke:#181818;stroke-width:1.0;" x1="253" x2="253" y1="216.5293" y2="229.5293"/><line style="stroke:#181818;stroke-width:1.0;" x1="212" x2="253" y1="229.5293" y2="229.5293"/><polygon fill="#181818" points="222,225.5293,212,229.5293,222,233.5293,218,229.5293" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="21" x="218" y="204.1318">02:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="192" x="243" y="196.4766">retrieve the signature from the</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="132" x="243" y="211.7871">Authorization header</text><polygon fill="#181818" points="495,254.8398,505,258.8398,495,262.8398,499,258.8398" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="211" x2="501" y1="258.8398" y2="258.8398"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="21" x="218" y="254.0977">03:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="205" x="243" y="254.0977">find the public key for the Client</text><polygon fill="#181818" points="222,284.1504,212,288.1504,222,292.1504,218,288.1504" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="216" x2="511" y1="288.1504" y2="288.1504"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="21" x="228" y="283.4082">04:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="65" x="253" y="283.4082">public key</text><line style="stroke:#181818;stroke-width:1.0;" x1="211" x2="253" y1="332.7715" y2="332.7715"/><line style="stroke:#181818;stroke-width:1.0;" x1="253" x2="253" y1="332.7715" y2="345.7715"/><line style="stroke:#181818;stroke-width:1.0;" x1="212" x2="253" y1="345.7715" y2="345.7715"/><polygon fill="#181818" points="222,341.7715,212,345.7715,222,349.7715,218,345.7715" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="21" x="218" y="320.374">05:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="115" x="243" y="312.7188">use the public key</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="115" x="247" y="328.0293">to verify signature</text><polygon fill="#181818" points="495,371.082,505,375.082,495,379.082,499,375.082" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="211" x2="501" y1="375.082" y2="375.082"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="21" x="218" y="370.3398">06:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="252" x="243" y="370.3398">find the PayPal credentials for the Client</text><polygon fill="#181818" points="222,400.3926,212,404.3926,222,408.3926,218,404.3926" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="216" x2="511" y1="404.3926" y2="404.3926"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="21" x="228" y="399.6504">07:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="69" x="253" y="399.6504">credentials</text><polygon fill="#181818" points="631,429.7031,641,433.7031,631,437.7031,635,433.7031" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="211" x2="637" y1="433.7031" y2="433.7031"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="21" x="218" y="428.9609">08:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="388" x="243" y="428.9609">POST /v1/oauth2/token(credentials) //Generate access token</text><line style="stroke:#181818;stroke-width:1.0;" x1="653" x2="695" y1="478.3242" y2="478.3242"/><line style="stroke:#181818;stroke-width:1.0;" x1="695" x2="695" y1="478.3242" y2="491.3242"/><line style="stroke:#181818;stroke-width:1.0;" x1="654" x2="695" y1="491.3242" y2="491.3242"/><polygon fill="#181818" points="664,487.3242,654,491.3242,664,495.3242,660,491.3242" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="21" x="660" y="465.9268">09:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="138" x="685" y="458.2715">check the credentials,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="140" x="685" y="473.582">generate access token</text><polygon fill="#181818" points="222,516.6348,212,520.6348,222,524.6348,218,520.6348" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="216" x2="647" y1="520.6348" y2="520.6348"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="21" x="228" y="515.8926">10:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="85" x="253" y="515.8926">access_token</text><rect fill="none" height="81.8418" style="stroke:#000000;stroke-width:1.5;" width="582.5" x="136" y="528.6348"/><path d="M136,528.6348 L200,528.6348 L200,535.6348 L190,545.6348 L136,545.6348 L136,528.6348 " fill="#EEEEEE" style="stroke:#000000;stroke-width:2.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="19" x="149" y="543.2031">ref</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="425.25" y="561.2363"> </text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="290" x="282.25" y="575.3691">Request to PayPal with using the access_token</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="425.25" y="589.502"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="425.25" y="603.6348"> </text><polygon fill="#181818" points="63,632.7871,53,636.7871,63,640.7871,59,636.7871" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="57" x2="205" y1="636.7871" y2="636.7871"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="21" x="69" y="632.0449">11:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="36" x="94" y="632.0449">result</text><!--MD5=[cd565e8d9cf7bf1d68d59cb6e60c43d7]
+@startuml authorize_consumer
+title __Authorization__
+participant "Bank Server"  as BS 
+box "__PLATFORM__"
+participant "Payment Platform" as PP 
+database "Clients DB" as CDB
+end box
+participant "PayPal Processing" as PaP
+
+
+autonumber "<b>00:"
+/'
+        Authentication
+'/
+BS -> PP : send any PayPal\nservices Request
+    activate PP
+        PP -> PP : retrieve the signature from the\nAuthorization header
+        PP -> CDB : find the public key for the Client
+            activate CDB
+                CDB - -> PP : public key
+            deactivate CDB
+        PP -> PP : use the public key\n to verify signature
+        PP -> CDB : find the PayPal credentials for the Client
+            activate CDB
+                CDB  - -> PP : credentials
+            deactivate CDB 
+        PP -> PaP : POST /v1/oauth2/token(credentials) //Generate access token
+            activate PaP
+                PaP -> PaP : check the credentials,\ngenerate access token
+                PaP - -> PP : access_token
+            deactivate PaP
+        ref over PP, CDB, PaP
+
+                                                **Request to PayPal with using the access_token**
+
+
+        end ref
+        PP - -> BS : result
+    deactivate PP
+@enduml
+
+@startuml authorize_consumer
+title __Authorization__
+participant "Bank Server"  as BS 
+box "__PLATFORM__"
+participant "Payment Platform" as PP 
+database "Clients DB" as CDB
+end box
+participant "PayPal Processing" as PaP
+
+
+autonumber "<b>00:"
+BS -> PP : send any PayPal\nservices Request
+    activate PP
+        PP -> PP : retrieve the signature from the\nAuthorization header
+        PP -> CDB : find the public key for the Client
+            activate CDB
+                CDB - -> PP : public key
+            deactivate CDB
+        PP -> PP : use the public key\n to verify signature
+        PP -> CDB : find the PayPal credentials for the Client
+            activate CDB
+                CDB  - -> PP : credentials
+            deactivate CDB 
+        PP -> PaP : POST /v1/oauth2/token(credentials) //Generate access token
+            activate PaP
+                PaP -> PaP : check the credentials,\ngenerate access token
+                PaP - -> PP : access_token
+            deactivate PaP
+        ref over PP, CDB, PaP
+
+                                                **Request to PayPal with using the access_token**
+
+
+        end ref
+        PP - -> BS : result
+    deactivate PP
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 19:01:30 CEST 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: RU
+--></g></svg>

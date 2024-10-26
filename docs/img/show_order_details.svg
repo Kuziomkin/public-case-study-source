@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="421px" preserveAspectRatio="none" style="width:950px;height:421px;background:#FFFFFF;" version="1.1" viewBox="0 0 950 421" width="950px" zoomAndPan="magnify"><defs/><g><rect fill="none" height="26.4883" id="_title" style="stroke:none;stroke-width:1.0;" width="145" x="404.5" y="10"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" text-decoration="underline" textLength="135" x="409.5" y="28.5352">Show order details</text><rect fill="#FFFFFF" height="247.7051" style="stroke:#181818;stroke-width:1.0;" width="10" x="407" y="120.5977"/><rect fill="#FFFFFF" height="86.9316" style="stroke:#181818;stroke-width:1.0;" width="10" x="802" y="252.0605"/><line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="52" x2="52" y1="73.9766" y2="386.3027"/><line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="412" x2="412" y1="73.9766" y2="386.3027"/><line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="806.5" x2="806.5" y1="73.9766" y2="386.3027"/><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="94" x="5" y="42.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80" x="12" y="63.0234">Bank Server</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="94" x="5" y="385.3027"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80" x="12" y="405.8379">Bank Server</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="134" x="345" y="42.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="352" y="63.0234">Payment Platform</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="134" x="345" y="385.3027"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="352" y="405.8379">Payment Platform</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="135" x="739.5" y="42.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="746.5" y="63.0234">PayPal Processing</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="135" x="739.5" y="385.3027"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="746.5" y="405.8379">PayPal Processing</text><rect fill="#FFFFFF" height="247.7051" style="stroke:#181818;stroke-width:1.0;" width="10" x="407" y="120.5977"/><rect fill="#FFFFFF" height="86.9316" style="stroke:#181818;stroke-width:1.0;" width="10" x="802" y="252.0605"/><polygon fill="#181818" points="395,116.5977,405,120.5977,395,124.5977,399,120.5977" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="52" x2="401" y1="120.5977" y2="120.5977"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="21" x="59" y="108.2002">01:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="284" x="84" y="100.5449">GET /v1/transaction/payments/{payment_id}</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="311" x="84" y="115.8555">//fetch a Payment resource using the resource ID</text><rect fill="none" height="81.8418" style="stroke:#000000;stroke-width:1.5;" width="535.5" x="342" y="128.5977"/><path d="M342,128.5977 L406,128.5977 L406,135.5977 L396,145.5977 L342,145.5977 L342,128.5977 " fill="#EEEEEE" style="stroke:#000000;stroke-width:2.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="19" x="355" y="143.166">ref</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="607.75" y="161.1992"> </text><a href="https://gitlab.com/kuziomkin/case_study_excercise_form3/-/blob/main/out/authorize_consumer_sequence/authorize_consumer.svg" target="_top" title="Tooltip for message" xlink:actuate="onRequest" xlink:href="https://gitlab.com/kuziomkin/case_study_excercise_form3/-/blob/main/out/authorize_consumer_sequence/authorize_consumer.svg" xlink:show="new" xlink:title="Tooltip for message" xlink:type="simple"><text fill="#0000FF" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" text-decoration="underline" textLength="141" x="539.25" y="175.332">Generate access_token</text></a><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="607.75" y="189.4648"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="607.75" y="203.5977"> </text><polygon fill="#181818" points="790,248.0605,800,252.0605,790,256.0605,794,252.0605" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="417" x2="796" y1="252.0605" y2="252.0605"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="21" x="424" y="239.6631">02:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="229" x="449" y="232.0078">GET /v2/checkout/orders/{order_id}</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="130" x="449" y="247.3184">//show order details</text><line style="stroke:#181818;stroke-width:1.0;" x1="812" x2="854" y1="281.3711" y2="281.3711"/><line style="stroke:#181818;stroke-width:1.0;" x1="854" x2="854" y1="281.3711" y2="294.3711"/><line style="stroke:#181818;stroke-width:1.0;" x1="813" x2="854" y1="294.3711" y2="294.3711"/><polygon fill="#181818" points="823,290.3711,813,294.3711,823,298.3711,819,294.3711" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="21" x="819" y="276.6289">03:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="99" x="844" y="276.6289">find order by ID</text><polygon fill="#181818" points="428,334.9922,418,338.9922,428,342.9922,424,338.9922" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="422" x2="806" y1="338.9922" y2="338.9922"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="21" x="434" y="326.5947">04:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="83" x="459" y="318.9395">HTTP 200 OK</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="336" x="459" y="334.25">(id, intent, status, purchase_units, create_time, links)</text><polygon fill="#181818" points="63,364.3027,53,368.3027,63,372.3027,59,368.3027" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="57" x2="411" y1="368.3027" y2="368.3027"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="21" x="69" y="363.5605">05:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="122" x="94" y="363.5605">HTTP 200 OK (data)</text><!--MD5=[dde21087b4fc5f6b960ec10850663154]
+@startuml show_order_details
+title __Show order details__
+participant "Bank Server"  as BS 
+participant "Payment Platform" as PP 
+participant "PayPal Processing" as PaP
+
+
+autonumber "<b>00:"
+/'
+        Get order details
+'/
+BS -> PP : GET /v1/transaction/payments/{payment_id}\n//fetch a Payment resource using the resource ID
+    activate PP
+ref over PP, PaP
+
+                                                **[[https://gitlab.com/kuziomkin/case_study_excercise_form3/-/blob/main/out/authorize_consumer_sequence/authorize_consumer.svg{Tooltip for message} Generate access_token]]**
+
+
+end ref  
+        PP -> PaP : GET /v2/checkout/orders/{order_id}\n//show order details
+            activate PaP
+                PaP -> PaP : find order by ID
+                PaP - -> PP : HTTP 200 OK\n(id, intent, status, purchase_units, create_time, links)
+            deactivate PaP
+        PP - -> BS : HTTP 200 OK (data)
+    deactivate PP
+@enduml
+
+@startuml show_order_details
+title __Show order details__
+participant "Bank Server"  as BS 
+participant "Payment Platform" as PP 
+participant "PayPal Processing" as PaP
+
+
+autonumber "<b>00:"
+BS -> PP : GET /v1/transaction/payments/{payment_id}\n//fetch a Payment resource using the resource ID
+    activate PP
+ref over PP, PaP
+
+                                                **[[https://gitlab.com/kuziomkin/case_study_excercise_form3/-/blob/main/out/authorize_consumer_sequence/authorize_consumer.svg{Tooltip for message} Generate access_token]]**
+
+
+end ref  
+        PP -> PaP : GET /v2/checkout/orders/{order_id}\n//show order details
+            activate PaP
+                PaP -> PaP : find order by ID
+                PaP - -> PP : HTTP 200 OK\n(id, intent, status, purchase_units, create_time, links)
+            deactivate PaP
+        PP - -> BS : HTTP 200 OK (data)
+    deactivate PP
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 19:01:30 CEST 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: RU
+--></g></svg>
