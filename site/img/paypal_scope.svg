@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="338px" preserveAspectRatio="none" style="width:1014px;height:338px;background:#FFFFFF;" version="1.1" viewBox="0 0 1014 338" width="1014px" zoomAndPan="magnify"><defs/><g><!--MD5=[0d82d44fc29ed79a620375d94737376a]
+cluster UseCase diagram--><g id="cluster_UseCase diagram"><path d="M8.5,6 L133.5,6 A3.75,3.75 0 0 1 136,8.5 L143,28.4883 L1004.5,28.4883 A2.5,2.5 0 0 1 1007,30.9883 L1007,328.5 A2.5,2.5 0 0 1 1004.5,331 L8.5,331 A2.5,2.5 0 0 1 6,328.5 L6,8.5 A2.5,2.5 0 0 1 8.5,6 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="6" x2="143" y1="28.4883" y2="28.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="124" x="10" y="21.5352">UseCase diagram</text></g><!--MD5=[38ca45345c52de7e90b0ebd08f48f62a]
+cluster __Top up account via PayPal__--><g id="cluster___Top up account via PayPal__"><rect fill="none" height="258" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:1.0;" width="874" x="109" y="49"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" text-decoration="underline" textLength="189" x="451.5" y="64.5352">Top up account via PayPal</text></g><!--MD5=[16fab723be418f7eaf2ea4bd895a8e51]
+entity C--><g id="elem_C"><ellipse cx="42" cy="161.5" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M42,169.5 L42,196.5 M29,177.5 L55,177.5 M42,196.5 L29,211.5 M42,196.5 L55,211.5 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="22" y="226.5352">Client</text></g><g id="elem_T"><ellipse cx="226.1457" cy="190.818" fill="#F1F1F1" rx="87.1457" ry="26.318" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="172.6457" y="185.8648">Top up account</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="66" x="195.1457" y="202.3531">via PayPal</text></g><g id="elem_AC"><ellipse cx="226.0823" cy="107.1165" fill="#F1F1F1" rx="101.0823" ry="22.6165" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="166" x="143.0823" y="110.4075">Authorize API consumer</text></g><g id="elem_CO"><ellipse cx="544.6072" cy="236.9214" fill="#F1F1F1" rx="67.6072" ry="15.9214" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="87" x="498.1072" y="240.939">Create order</text></g><g id="elem_S"><ellipse cx="226.2351" cy="272.247" fill="#F1F1F1" rx="84.2351" ry="19.247" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="128" x="162.2351" y="275.538">Show order details</text></g><g id="elem_A"><ellipse cx="864.7021" cy="142.818" fill="#F1F1F1" rx="102.7021" ry="26.318" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="68" x="830.7021" y="137.8648">Authorize</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="125" x="804.2021" y="154.3531">payment for order</text></g><g id="elem_CP"><ellipse cx="544.3163" cy="141.7633" fill="#F1F1F1" rx="109.3163" ry="24.2633" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="184" x="452.3163" y="145.0543">Capture payment for order</text></g><!--MD5=[ed4e499c3849ae3becf579ac633fad73]
+link C to AC--><g id="link_C_AC"><path d="M62.27,173.75 C73.06,164.79 87.1,154.24 101,147 C118.85,137.69 139.28,130.02 158.33,123.98 " fill="none" id="C-AC" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[281a59200fe523f79922830c877c9cf1]
+link C to T--><g id="link_C_T"><path d="M62.48,191 C81,191 110.21,191 138.78,191 " fill="none" id="C-T" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[ccc7b4aa46a2a91e2551111345050180]
+link C to S--><g id="link_C_S"><path d="M62.47,208.59 C73.21,217.53 87.14,227.97 101,235 C120.83,245.06 143.87,252.88 164.67,258.67 " fill="none" id="C-S" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[cc8623b3c02959ee1dcf422def316692]
+link T to CO--><g id="link_T_CO"><path d="M305.24,202.37 C358.95,210.18 429.36,220.41 479.69,227.73 " fill="none" id="T-to-CO" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="484.53,228.43,476.2095,223.1603,479.5834,227.7009,475.0429,231.0748,484.53,228.43" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="46" x="358" y="208.5684">include</text></g><!--MD5=[80902a81450a3ad518c02a3254ad794d]
+link T to CP--><g id="link_T_CP"><path d="M304.02,179.08 C347.1,172.41 401.19,164.03 447.07,156.93 " fill="none" id="T-to-CP" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="451.99,156.17,442.4881,153.5788,447.0476,156.9271,443.6994,161.4866,451.99,156.17" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="46" x="358" y="160.5684">include</text></g><!--MD5=[de68cdd9b6398bc56eacd90445c6376b]
+reverse link S to CO--><g id="link_S_CO"><path d="M314.69,267.08 C343.51,265.06 375.67,262.39 405,259 C433.05,255.75 464.12,250.93 489.71,246.63 " fill="none" id="S-backto-CO" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="309.73,267.42,318.9832,270.7931,314.7182,267.077,318.4344,262.812,309.73,267.42" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="43" x="359.5" y="255.5684">extend</text></g><!--MD5=[0fb3bdd74bb8b58af948b0fac84cd9d3]
+link CP to A--><g id="link_CP_A"><path d="M654.05,142.34 C686.69,142.44 722.49,142.56 755.12,142.66 " fill="none" id="CP-to-A" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="760.09,142.67,751.1015,138.6443,755.09,142.6557,751.0786,146.6443,760.09,142.67" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="46" x="685" y="139.5684">include</text></g><!--MD5=[0fb3bdd74bb8b58af948b0fac84cd9d3]
+link CP to A--><!--MD5=[11606325cb9ce2212aead6bd82336a25]
+@startuml paypal_scope
+
+left to right direction
+
+package "UseCase diagram"{
+
+    /' 
+        Add Actors
+    '/
+    actor "Client" as C
+
+    /' 
+        Add UseCases
+    '/
+    rectangle "__Top up account via PayPal__"{
+        usecase "Top up account\n via PayPal" as T 
+        usecase "Authorize API consumer" as AC 
+        usecase "Create order" as CO
+        usecase "Show order details" as S 
+        usecase "Authorize\n payment for order" as A 
+        usecase "Capture payment for order" as CP 
+    }
+
+     /' 
+        Link UseCases
+    '/
+    
+    C -down- AC
+    C -down- T
+    C -right- S
+    T ..> CO : include
+    T ..> CP : include
+    CO .up.> S : extend
+    CP .down.> A : include
+
+
+
+    A -[hidden]left- CP 
+
+}
+
+
+@enduml
+
+@startuml paypal_scope
+
+left to right direction
+
+package "UseCase diagram"{
+
+    actor "Client" as C
+
+    rectangle "__Top up account via PayPal__"{
+        usecase "Top up account\n via PayPal" as T 
+        usecase "Authorize API consumer" as AC 
+        usecase "Create order" as CO
+        usecase "Show order details" as S 
+        usecase "Authorize\n payment for order" as A 
+        usecase "Capture payment for order" as CP 
+    }
+
+    
+    C -down- AC
+    C -down- T
+    C -right- S
+    T ..> CO : include
+    T ..> CP : include
+    CO .up.> S : extend
+    CP .down.> A : include
+
+
+
+    A -[hidden]left- CP 
+
+}
+
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 19:01:30 CEST 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: RU
+--></g></svg>
